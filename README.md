@@ -1,4 +1,4 @@
-Video implementation: https://drive.google.com/drive/folders/1fbmC_Ca_dbIdugXSeg5V8kE76YbiRS1F?usp=drive_link
+Video implementation: https://youtu.be/brg1SU7Ab54
 
 fytz: Your Personal Wardrobe & Outfit Simulator
 
