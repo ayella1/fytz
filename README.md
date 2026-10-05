@@ -1,4 +1,5 @@
-Video implementation: https://youtu.be/brg1SU7Ab54
+Shorter video implementation: https://youtu.be/brg1SU7Ab54
+Longer video implementation: https://drive.google.com/file/d/19AulkpV6nzlseZ_nbum-90Sw24fzPVHW/view?usp=sharing
 
 fytz: Your Personal Wardrobe & Outfit Simulator
 
