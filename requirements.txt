@@ -1,0 +1,7 @@
+Flask
+Flask-Session
+requests
+cs50
+rembg
+Pillow
+werkzeug
